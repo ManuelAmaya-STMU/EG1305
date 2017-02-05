@@ -8,7 +8,8 @@ public class Drink {
 		int customers= 12467;
 		System.out.println("A soft drink company recently surveyed 12,467 customers");
 		System.out.println("The approximate number of customers in the survey who purchase one or more energy drinks per week is " + customers*0.14);
-		System.out.println("And, the amount who prefer citrus flavored energy drinks is " +customers*0.14*0.64);
+		System.out.println("And, the amount who prefer citrus flavored energy drinks is " +customers*0.14*0.64); 
+		//use space between operators + customers * 0.14 * 0.64
 		
 	}
 
